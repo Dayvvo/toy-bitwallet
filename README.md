@@ -7,7 +7,7 @@ This project showcases basic Bitcoin functionality from the command line.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone 
+    git clone https://github.com/Dayvvo/toy-bitwallet.git
     ```
 
 2. Install project dependencies using npm:
